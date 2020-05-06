@@ -1,0 +1,914 @@
+,Unnamed: 0,Unnamed: 0.1,pretty_formula,elements,e_above_hull,formation_energy_per_atom,spacegroup,density,nsites,cif,volume,band_gap,total_magnetization,elasticity,piezo,diel,num_atoms,k-points,num_cu,num_sn
+0,0,0,Cu3Sn,"['Cu', 'Sn']",0.022093406000000648,0.008900543500000423,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'Cmcm', 'number': 63, 'point_group': 'mmm', 'crystal_system': 'orthorhombic', 'hall': '-C 2c 2'}",8.795607231750376,40,"# generated using pymatgen
+data_Cu3Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33293312
+_cell_length_b   5.63910973
+_cell_length_c   24.06793504
+_cell_angle_alpha   96.72764043
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Sn
+_chemical_formula_sum   'Cu30 Sn10'
+_cell_volume   584.02383987
+_cell_formula_units_Z   10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.250000  0.069604  0.139207  1
+  Cu  Cu1  1  0.750000  0.930396  0.860793  1
+  Cu  Cu2  1  0.250000  0.170299  0.340599  1
+  Cu  Cu3  1  0.750000  0.829701  0.659401  1
+  Cu  Cu4  1  0.250000  0.270522  0.541044  1
+  Cu  Cu5  1  0.750000  0.729478  0.458956  1
+  Cu  Cu6  1  0.250000  0.370802  0.741604  1
+  Cu  Cu7  1  0.750000  0.629198  0.258396  1
+  Cu  Cu8  1  0.250000  0.469818  0.939636  1
+  Cu  Cu9  1  0.750000  0.530182  0.060364  1
+  Cu  Cu10  1  0.250000  0.753364  0.031175  1
+  Cu  Cu11  1  0.750000  0.722189  0.968825  1
+  Cu  Cu12  1  0.750000  0.246636  0.968825  1
+  Cu  Cu13  1  0.250000  0.277811  0.031175  1
+  Cu  Cu14  1  0.250000  0.864238  0.230800  1
+  Cu  Cu15  1  0.750000  0.633438  0.769200  1
+  Cu  Cu16  1  0.750000  0.135762  0.769200  1
+  Cu  Cu17  1  0.250000  0.366562  0.230800  1
+  Cu  Cu18  1  0.250000  0.962074  0.430812  1
+  Cu  Cu19  1  0.750000  0.531261  0.569188  1
+  Cu  Cu20  1  0.750000  0.037926  0.569188  1
+  Cu  Cu21  1  0.250000  0.468739  0.430812  1
+  Cu  Cu22  1  0.250000  0.061580  0.630973  1
+  Cu  Cu23  1  0.750000  0.430606  0.369027  1
+  Cu  Cu24  1  0.750000  0.938420  0.369027  1
+  Cu  Cu25  1  0.250000  0.569394  0.630973  1
+  Cu  Cu26  1  0.250000  0.159374  0.831297  1
+  Cu  Cu27  1  0.750000  0.328077  0.168703  1
+  Cu  Cu28  1  0.750000  0.840626  0.168703  1
+  Cu  Cu29  1  0.250000  0.671923  0.831297  1
+  Sn  Sn30  1  0.250000  0.965866  0.931732  1
+  Sn  Sn31  1  0.750000  0.034134  0.068268  1
+  Sn  Sn32  1  0.250000  0.865461  0.730923  1
+  Sn  Sn33  1  0.750000  0.134539  0.269077  1
+  Sn  Sn34  1  0.250000  0.765478  0.530955  1
+  Sn  Sn35  1  0.750000  0.234522  0.469045  1
+  Sn  Sn36  1  0.250000  0.665470  0.330941  1
+  Sn  Sn37  1  0.750000  0.334530  0.669059  1
+  Sn  Sn38  1  0.250000  0.566192  0.132385  1
+  Sn  Sn39  1  0.750000  0.433808  0.867615  1
+",584.0238398681812,0.0,7.197e-05,,,,40,2,30,10
+1,1,1,Cu10Sn3,"['Cu', 'Sn']",0.02315960192307731,0.010981575000000222,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P6_3', 'number': 173, 'point_group': '6', 'crystal_system': 'hexagonal', 'hall': 'P 6c'}",8.842897982809873,26,"# generated using pymatgen
+data_Cu10Sn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36170096
+_cell_length_b   7.36170078
+_cell_length_c   7.93468423
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu10Sn3
+_chemical_formula_sum   'Cu20 Sn6'
+_cell_volume   372.40594879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.666667  0.333333  0.574216  1
+  Cu  Cu1  1  0.972316  0.331044  0.413501  1
+  Cu  Cu2  1  0.358728  0.027684  0.413501  1
+  Cu  Cu3  1  0.641272  0.972316  0.913501  1
+  Cu  Cu4  1  0.000000  0.000000  0.488079  1
+  Cu  Cu5  1  0.666667  0.333333  0.246745  1
+  Cu  Cu6  1  0.027751  0.671010  0.580742  1
+  Cu  Cu7  1  0.333333  0.666667  0.746745  1
+  Cu  Cu8  1  0.333333  0.666667  0.074216  1
+  Cu  Cu9  1  0.333333  0.666667  0.420024  1
+  Cu  Cu10  1  0.027684  0.668956  0.913501  1
+  Cu  Cu11  1  0.666667  0.333333  0.920024  1
+  Cu  Cu12  1  0.643259  0.972249  0.580742  1
+  Cu  Cu13  1  0.668956  0.641272  0.413501  1
+  Cu  Cu14  1  0.328990  0.356741  0.580742  1
+  Cu  Cu15  1  0.356741  0.027751  0.080742  1
+  Cu  Cu16  1  0.671010  0.643259  0.080742  1
+  Cu  Cu17  1  0.331044  0.358728  0.913501  1
+  Cu  Cu18  1  0.972249  0.328990  0.080742  1
+  Cu  Cu19  1  0.000000  0.000000  0.988079  1
+  Sn  Sn20  1  0.683649  0.976890  0.246802  1
+  Sn  Sn21  1  0.023110  0.706760  0.246802  1
+  Sn  Sn22  1  0.316351  0.023110  0.746802  1
+  Sn  Sn23  1  0.976890  0.293240  0.746802  1
+  Sn  Sn24  1  0.293240  0.316351  0.246802  1
+  Sn  Sn25  1  0.706760  0.683649  0.746802  1
+",372.4059487906459,0.0,2.5e-07,"{'G_Reuss': 40.0, 'G_VRH': 41.0, 'G_Voigt': 42.0, 'G_Voigt_Reuss_Hill': 41.0, 'K_Reuss': 110.0, 'K_VRH': 110.0, 'K_Voigt': 110.0, 'K_Voigt_Reuss_Hill': 110.0, 'elastic_anisotropy': 0.28, 'elastic_tensor': [[172.0, 87.0, 71.0, 0.0, 0.0, 0.0], [87.0, 172.0, 71.0, 0.0, 0.0, 0.0], [71.0, 71.0, 190.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 32.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 32.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 43.0]], 'homogeneous_poisson': 0.34, 'poisson_ratio': 0.34, 'universal_anisotropy': 0.28, 'elastic_tensor_original': [[169.9116374893632, 89.25744649494928, 70.96000401847374, 0.0, 0.0, -0.19743302824515882], [89.27586531052606, 169.85695045081556, 70.79411443235765, 0.0, 0.0, -0.03888202703944248], [70.21137237616834, 70.21139847379963, 190.35360023682404, 0.0, 0.0, -8.175964752478543e-07], [-0.00033790984083636186, -0.00036028649696268983, 0.0008917595799605375, 31.685150975555892, -0.09184145340720301, 0.0003564731654262286], [0.016327647278573106, -0.10079298191628128, 0.14113510930458129, -0.04576517429403669, 31.943036385803644, 0.04289242279802862], [-0.28077552923153565, 0.43786360868121377, -0.2606344189856849, 0.0, 0.0, 45.44945467282232]], 'compliance_tensor': [[8.2, -3.4, -1.8, -0.0, -0.0, 0.0], [-3.4, 8.2, -1.8, -0.0, 0.0, 0.0], [-1.8, -1.8, 6.6, 0.0, 0.0, -0.0], [-0.0, 0.0, -0.0, 31.4, 0.0, -0.0], [-0.0, 0.0, 0.0, 0.0, 31.4, 0.0], [0.0, 0.0, -0.0, -0.0, 0.0, 23.3]], 'warnings': [], 'nsites': 26}",,,26,3,20,6
+2,2,2,CuSn3,"['Cu', 'Sn']",0.2593734187500001,0.2461805562499997,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'I4/mmm', 'number': 139, 'point_group': '4/mmm', 'crystal_system': 'tetragonal', 'hall': '-I 4 2'}",7.129402083669617,4,"# generated using pymatgen
+data_CuSn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81017106
+_cell_length_b   5.81017106
+_cell_length_c   5.81017106
+_cell_angle_alpha   134.64867945
+_cell_angle_beta   134.64867945
+_cell_angle_gamma   66.07656511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSn3
+_chemical_formula_sum   'Cu1 Sn3'
+_cell_volume   97.74850317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  -0.000000  0.000000  1
+  Sn  Sn1  1  0.750001  0.250000  0.500000  1
+  Sn  Sn2  1  0.250000  0.750001  0.500000  1
+  Sn  Sn3  1  0.500001  0.500001  0.000000  1
+",97.74850316652928,0.0,4e-06,,,,4,5,1,3
+3,3,3,Cu5Sn4,"['Cu', 'Sn']",0.01480149296296318,-0.008652484814814128,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'C2', 'number': 5, 'point_group': '2', 'crystal_system': 'monoclinic', 'hall': 'C 2y'}",8.10600590627906,27,"# generated using pymatgen
+data_Cu5Sn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41045770
+_cell_length_b   7.41285819
+_cell_length_c   10.23812775
+_cell_angle_alpha   89.43944376
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98928844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu5Sn4
+_chemical_formula_sum   'Cu15 Sn12'
+_cell_volume   487.08085418
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.618771  0.318589  0.125691  1
+  Cu  Cu1  1  0.316505  0.670578  0.125733  1
+  Cu  Cu2  1  0.012181  0.018995  0.125207  1
+  Cu  Cu3  1  0.993835  0.018587  0.376688  1
+  Cu  Cu4  1  0.295038  0.663336  0.623479  1
+  Cu  Cu5  1  0.975248  0.981413  0.623312  1
+  Cu  Cu6  1  0.645926  0.329422  0.874267  1
+  Cu  Cu7  1  0.316652  0.653335  0.376946  1
+  Cu  Cu8  1  0.993186  0.981005  0.874793  1
+  Cu  Cu9  1  0.972919  0.657167  0.748556  1
+  Cu  Cu10  1  0.663317  0.346665  0.623054  1
+  Cu  Cu11  1  0.300182  0.681411  0.874309  1
+  Cu  Cu12  1  0.631701  0.336664  0.376521  1
+  Cu  Cu13  1  0.315752  0.342833  0.251444  1
+  Cu  Cu14  1  0.319047  0.000000  0.000000  1
+  Sn  Sn15  1  0.621455  0.669875  0.750200  1
+  Sn  Sn16  1  0.951581  0.330125  0.249800  1
+  Sn  Sn17  1  0.975266  0.662938  0.479356  1
+  Sn  Sn18  1  0.956055  0.640825  0.019121  1
+  Sn  Sn19  1  0.318444  0.981558  0.269582  1
+  Sn  Sn20  1  0.649260  0.000000  0.500000  1
+  Sn  Sn21  1  0.673812  0.699646  0.247682  1
+  Sn  Sn22  1  0.312328  0.337062  0.520644  1
+  Sn  Sn23  1  0.974166  0.300354  0.752318  1
+  Sn  Sn24  1  0.677258  0.000000  0.000000  1
+  Sn  Sn25  1  0.315231  0.359175  0.980879  1
+  Sn  Sn26  1  0.336886  0.018442  0.730418  1
+",487.08085417751664,0.0,0.0,,,,27,3,15,12
+4,4,4,Cu81Sn22,"['Cu', 'Sn']",0.027753951941747342,0.016482380097087773,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'R3m', 'number': 160, 'point_group': '3m', 'crystal_system': 'trigonal', 'hall': 'R 3 -2""'}",8.767560837324044,103,"# generated using pymatgen
+data_Cu81Sn22
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.74919219
+_cell_length_b   12.74919219
+_cell_length_c   12.77339668
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.06266349
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu81Sn22
+_chemical_formula_sum   'Cu81 Sn22'
+_cell_volume   1469.49270469
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.500048  0.577291  0.922661  1
+  Cu  Cu1  1  0.154582  0.577291  0.922661  1
+  Cu  Cu2  1  0.500048  0.922757  0.922661  1
+  Cu  Cu3  1  0.845285  0.922643  0.577343  1
+  Cu  Cu4  1  0.500014  0.577372  0.577343  1
+  Cu  Cu5  1  0.500014  0.922643  0.577343  1
+  Cu  Cu6  1  0.902743  0.451372  0.645885  1
+  Cu  Cu7  1  0.097284  0.451195  0.451521  1
+  Cu  Cu8  1  0.097284  0.646088  0.451521  1
+  Cu  Cu9  1  0.902391  0.451195  0.451521  1
+  Cu  Cu10  1  0.711701  0.468872  0.819427  1
+  Cu  Cu11  1  0.937744  0.468872  0.819427  1
+  Cu  Cu12  1  0.711701  0.242829  0.819427  1
+  Cu  Cu13  1  0.288478  0.468919  0.242603  1
+  Cu  Cu14  1  0.061364  0.242095  0.469139  1
+  Cu  Cu15  1  0.288766  0.469496  0.469139  1
+  Cu  Cu16  1  0.288766  0.819270  0.469139  1
+  Cu  Cu17  1  0.061364  0.819270  0.469139  1
+  Cu  Cu18  1  0.288478  0.819560  0.242603  1
+  Cu  Cu19  1  0.711591  0.242095  0.469139  1
+  Cu  Cu20  1  0.937837  0.468919  0.242603  1
+  Cu  Cu21  1  0.711591  0.469496  0.469139  1
+  Cu  Cu22  1  0.181940  0.237993  0.580067  1
+  Cu  Cu23  1  0.475986  0.237993  0.580067  1
+  Cu  Cu24  1  0.181940  0.943947  0.580067  1
+  Cu  Cu25  1  0.816553  0.234906  0.948541  1
+  Cu  Cu26  1  0.526848  0.945348  0.237117  1
+  Cu  Cu27  1  0.817535  0.236035  0.237117  1
+  Cu  Cu28  1  0.817535  0.581499  0.237117  1
+  Cu  Cu29  1  0.526848  0.581499  0.237117  1
+  Cu  Cu30  1  0.816553  0.581647  0.948541  1
+  Cu  Cu31  1  0.181384  0.945348  0.237117  1
+  Cu  Cu32  1  0.469812  0.234906  0.948541  1
+  Cu  Cu33  1  0.181384  0.236035  0.237117  1
+  Cu  Cu34  1  0.166515  0.583258  0.250227  1
+  Cu  Cu35  1  0.833096  0.584004  0.582900  1
+  Cu  Cu36  1  0.833096  0.249093  0.582900  1
+  Cu  Cu37  1  0.168008  0.584004  0.582900  1
+  Cu  Cu38  1  0.392202  0.196101  0.411697  1
+  Cu  Cu39  1  0.608631  0.195842  0.195527  1
+  Cu  Cu40  1  0.608631  0.412789  0.195527  1
+  Cu  Cu41  1  0.391684  0.195842  0.195527  1
+  Cu  Cu42  1  0.688448  0.980271  0.331281  1
+  Cu  Cu43  1  0.960542  0.980271  0.331281  1
+  Cu  Cu44  1  0.688448  0.708177  0.331281  1
+  Cu  Cu45  1  0.313686  0.981470  0.704844  1
+  Cu  Cu46  1  0.035234  0.705535  0.981805  1
+  Cu  Cu47  1  0.312660  0.982960  0.981805  1
+  Cu  Cu48  1  0.312660  0.329700  0.981805  1
+  Cu  Cu49  1  0.035234  0.329700  0.981805  1
+  Cu  Cu50  1  0.313686  0.332216  0.704844  1
+  Cu  Cu51  1  0.688495  0.705535  0.981805  1
+  Cu  Cu52  1  0.962940  0.981470  0.704844  1
+  Cu  Cu53  1  0.688495  0.982960  0.981805  1
+  Cu  Cu54  1  0.668853  0.834426  0.496721  1
+  Cu  Cu55  1  0.329008  0.835214  0.835778  1
+  Cu  Cu56  1  0.329008  0.493794  0.835778  1
+  Cu  Cu57  1  0.670428  0.835214  0.835778  1
+  Cu  Cu58  1  0.398408  0.699204  0.902388  1
+  Cu  Cu59  1  0.601786  0.698923  0.699291  1
+  Cu  Cu60  1  0.601786  0.902863  0.699291  1
+  Cu  Cu61  1  0.397845  0.698923  0.699291  1
+  Cu  Cu62  1  0.666732  0.333366  0.999902  1
+  Cu  Cu63  1  0.333550  0.333493  0.332957  1
+  Cu  Cu64  1  0.333550  0.000056  0.332957  1
+  Cu  Cu65  1  0.666987  0.333493  0.332957  1
+  Cu  Cu66  1  0.999763  0.328451  0.671787  1
+  Cu  Cu67  1  0.656901  0.328451  0.671787  1
+  Cu  Cu68  1  0.999763  0.671312  0.671787  1
+  Cu  Cu69  1  0.343236  0.671618  0.327995  1
+  Cu  Cu70  1  0.000387  0.328769  0.327995  1
+  Cu  Cu71  1  0.000387  0.671618  0.327995  1
+  Cu  Cu72  1  0.999252  0.820743  0.180005  1
+  Cu  Cu73  1  0.641486  0.820743  0.180005  1
+  Cu  Cu74  1  0.999252  0.178510  0.180005  1
+  Cu  Cu75  1  0.359430  0.179715  0.820808  1
+  Cu  Cu76  1  0.999477  0.819762  0.820808  1
+  Cu  Cu77  1  0.999477  0.179715  0.820808  1
+  Cu  Cu78  1  0.116959  0.943539  0.939502  1
+  Cu  Cu79  1  0.116959  0.173420  0.939502  1
+  Cu  Cu80  1  0.887078  0.943539  0.939502  1
+  Sn  Sn81  1  0.500539  0.067549  0.431913  1
+  Sn  Sn82  1  0.135097  0.067549  0.431913  1
+  Sn  Sn83  1  0.500539  0.432990  0.431913  1
+  Sn  Sn84  1  0.865105  0.432553  0.067543  1
+  Sn  Sn85  1  0.499905  0.067352  0.067543  1
+  Sn  Sn86  1  0.499905  0.432553  0.067543  1
+  Sn  Sn87  1  0.176489  0.088245  0.735266  1
+  Sn  Sn88  1  0.829473  0.081699  0.088828  1
+  Sn  Sn89  1  0.829473  0.747775  0.088828  1
+  Sn  Sn90  1  0.163397  0.081699  0.088828  1
+  Sn  Sn91  1  0.181727  0.732395  0.085878  1
+  Sn  Sn92  1  0.464789  0.732395  0.085878  1
+  Sn  Sn93  1  0.181727  0.449333  0.085878  1
+  Sn  Sn94  1  0.818715  0.733052  0.448233  1
+  Sn  Sn95  1  0.535350  0.449371  0.732658  1
+  Sn  Sn96  1  0.817972  0.731992  0.732658  1
+  Sn  Sn97  1  0.817972  0.085980  0.732658  1
+  Sn  Sn98  1  0.535350  0.085980  0.732658  1
+  Sn  Sn99  1  0.818715  0.085662  0.448233  1
+  Sn  Sn100  1  0.181363  0.449371  0.732658  1
+  Sn  Sn101  1  0.466104  0.733052  0.448233  1
+  Sn  Sn102  1  0.181363  0.731992  0.732658  1
+",1469.4927046870807,0.0,6e-07,,,,103,1,81,22
+5,5,5,Cu10Sn3,"['Cu', 'Sn']",0.22128362730769305,0.20910560038461548,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P-31m', 'number': 162, 'point_group': '-3m', 'crystal_system': 'trigonal', 'hall': '-P 3 2'}",8.297008300299106,26,"# generated using pymatgen
+data_Cu10Sn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22479804
+_cell_length_b   7.22479801
+_cell_length_c   8.78026548
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu10Sn3
+_chemical_formula_sum   'Cu20 Sn6'
+_cell_volume   396.90786054
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.318109  -0.000000  0.554771  1
+  Cu  Cu1  1  0.000000  0.000000  0.661247  1
+  Cu  Cu2  1  1.000000  0.681891  0.445229  1
+  Cu  Cu3  1  0.000000  0.316558  0.232676  1
+  Cu  Cu4  1  0.683442  0.683442  0.232676  1
+  Cu  Cu5  1  0.681891  0.681891  0.554771  1
+  Cu  Cu6  1  0.000000  -0.000000  0.338753  1
+  Cu  Cu7  1  0.272025  -0.000000  0.908555  1
+  Cu  Cu8  1  0.316558  -0.000000  0.232676  1
+  Cu  Cu9  1  0.000000  0.272025  0.908555  1
+  Cu  Cu10  1  0.681891  0.000000  0.445229  1
+  Cu  Cu11  1  0.000000  0.318109  0.554771  1
+  Cu  Cu12  1  0.316558  0.316558  0.767324  1
+  Cu  Cu13  1  0.272025  0.272025  0.091445  1
+  Cu  Cu14  1  1.000000  0.683442  0.767324  1
+  Cu  Cu15  1  0.683442  0.000000  0.767324  1
+  Cu  Cu16  1  1.000000  0.727975  0.091445  1
+  Cu  Cu17  1  0.727975  0.727975  0.908555  1
+  Cu  Cu18  1  0.318109  0.318109  0.445229  1
+  Cu  Cu19  1  0.727975  0.000000  0.091445  1
+  Sn  Sn20  1  0.333333  0.666667  0.333227  1
+  Sn  Sn21  1  0.333333  0.666667  0.666773  1
+  Sn  Sn22  1  0.666667  0.333333  0.666773  1
+  Sn  Sn23  1  0.666667  0.333333  0.333227  1
+  Sn  Sn24  1  0.666667  0.333333  -0.000000  1
+  Sn  Sn25  1  0.333333  0.666667  -0.000000  1
+",396.9078605391394,0.0,8e-07,,,,26,3,20,6
+6,6,6,Cu3Sn,"['Cu', 'Sn']",0.017316694999999882,0.004123832500000368,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'Pmmn', 'number': 59, 'point_group': 'mmm', 'crystal_system': 'orthorhombic', 'hall': 'P 2 2ab -1ab'}",8.896313305104718,8,"# generated using pymatgen
+data_Cu3Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35710166
+_cell_length_b   4.86130458
+_cell_length_c   5.45212500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Sn
+_chemical_formula_sum   'Cu6 Sn2'
+_cell_volume   115.48254054
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.750000  0.694461  0.250000  1
+  Cu  Cu1  1  0.250000  0.845436  0.001581  1
+  Cu  Cu2  1  0.750000  0.154564  0.998419  1
+  Cu  Cu3  1  0.250000  0.845436  0.498419  1
+  Cu  Cu4  1  0.750000  0.154564  0.501581  1
+  Cu  Cu5  1  0.250000  0.305540  0.750000  1
+  Sn  Sn6  1  0.750000  0.657663  0.750000  1
+  Sn  Sn7  1  0.250000  0.342337  0.250000  1
+",115.4825405375881,0.0,0.0,"{'G_Reuss': 39.0, 'G_VRH': 39.0, 'G_Voigt': 40.0, 'G_Voigt_Reuss_Hill': 39.0, 'K_Reuss': 107.0, 'K_VRH': 108.0, 'K_Voigt': 109.0, 'K_Voigt_Reuss_Hill': 108.0, 'elastic_anisotropy': 0.27, 'elastic_tensor': [[133.0, 81.0, 88.0, 0.0, 0.0, 0.0], [81.0, 162.0, 83.0, 0.0, 0.0, 0.0], [88.0, 83.0, 180.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 50.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 46.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 31.0]], 'homogeneous_poisson': 0.34, 'poisson_ratio': 0.34, 'universal_anisotropy': 0.27, 'elastic_tensor_original': [[179.63549088727046, 87.90309351486421, 83.23832546566557, 0.0, 0.0, 0.0], [87.57112303500622, 133.23922018268055, 79.04136070474922, 0.0, 0.0, 0.0], [82.69115148695272, 82.01270783404723, 162.08972325831164, 0.0, 0.0, 0.0], [0.00015272989592956764, 0.0002746231462055198, -6.848661999977862e-05, 30.922173219582618, 0.0, 0.0], [-0.00011234683727125509, -0.00016982692455920134, 3.315005033977968e-05, 0.0, 50.41004501412127, 0.0], [-0.00023464034207771966, 0.00016534024104573493, -6.914676747421908e-05, 0.0, 0.0, 46.300541153795436]], 'compliance_tensor': [[12.9, -4.2, -4.4, 0.0, 0.0, 0.0], [-4.2, 9.4, -2.3, 0.0, 0.0, 0.0], [-4.4, -2.3, 8.8, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 19.8, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 21.6, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 32.3]], 'warnings': [], 'nsites': 8}",,,8,5,30,10
+7,7,7,Cu3Sn,"['Cu', 'Sn']",0.01945463375000056,0.006261771250001047,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P6_3/mmc', 'number': 194, 'point_group': '6/mmm', 'crystal_system': 'hexagonal', 'hall': '-P 6c 2c'}",8.884813369068619,8,"# generated using pymatgen
+data_Cu3Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54046018
+_cell_length_b   5.54046018
+_cell_length_c   4.34966472
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Sn
+_chemical_formula_sum   'Cu6 Sn2'
+_cell_volume   115.63201378
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.156061  0.843939  0.750000  1
+  Cu  Cu1  1  0.312122  0.156061  0.250000  1
+  Cu  Cu2  1  0.843939  0.687878  0.250000  1
+  Cu  Cu3  1  0.156061  0.312122  0.750000  1
+  Cu  Cu4  1  0.687878  0.843939  0.750000  1
+  Cu  Cu5  1  0.843939  0.156061  0.250000  1
+  Sn  Sn6  1  0.333333  0.666667  0.250000  1
+  Sn  Sn7  1  0.666667  0.333333  0.750000  1
+",115.63201377628228,0.0,0.0,"{'G_Reuss': 36.0, 'G_VRH': 37.0, 'G_Voigt': 39.0, 'G_Voigt_Reuss_Hill': 37.0, 'K_Reuss': 106.0, 'K_VRH': 106.0, 'K_Voigt': 107.0, 'K_Voigt_Reuss_Hill': 106.0, 'elastic_anisotropy': 0.49, 'elastic_tensor': [[138.0, 86.0, 83.0, 0.0, 0.0, 0.0], [86.0, 138.0, 83.0, 0.0, 0.0, 0.0], [83.0, 83.0, 182.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 50.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 50.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 26.0]], 'homogeneous_poisson': 0.34, 'poisson_ratio': 0.34, 'universal_anisotropy': 0.49, 'elastic_tensor_original': [[134.89922357438576, 89.45154177797392, 83.71832467786578, 0.0, 0.0, -7.580861837293336e-07], [90.6065274042635, 134.5592647717471, 85.15453678893064, 0.0, 0.0, 1.385788108178667e-05], [81.8121814251185, 81.81217724608818, 182.03971280311785, 0.0, 0.0, 8.437860888867195e-06], [-0.007179793275567848, -0.0044515581239741, -0.004403672175223384, 50.07781500872542, 5.166663894577394e-06, 0.0], [0.13567301092888387, 0.05835586161627918, 0.035811664171239314, -5.99999399714152e-08, 50.270625555374544, 6.666659996823945e-09], [-0.00247041212858439, -0.12861626701354337, -0.048533711467882684, 0.0, 0.0, 29.7418325741948]], 'compliance_tensor': [[13.0, -6.2, -3.1, 0.0, 0.0, -0.0], [-6.2, 13.0, -3.1, 0.0, 0.0, -0.0], [-3.1, -3.1, 8.3, -0.0, -0.0, 0.0], [-0.0, 0.0, -0.0, 19.9, -0.0, -0.0], [0.0, -0.0, -0.0, -0.0, 19.9, 0.0], [-0.0, -0.0, 0.0, -0.0, 0.0, 38.4]], 'warnings': [], 'nsites': 8}",,,8,5,30,10
+8,8,8,Cu3Sn,"['Cu', 'Sn']",0.07898875375000003,0.06579589125000053,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'Fm-3m', 'number': 225, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-F 4 2 3'}",8.850258752895094,4,"# generated using pymatgen
+data_Cu3Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34595419
+_cell_length_b   4.34595419
+_cell_length_c   4.34595419
+_cell_angle_alpha   60.00000007
+_cell_angle_beta   60.00000004
+_cell_angle_gamma   60.00000006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Sn
+_chemical_formula_sum   'Cu3 Sn1'
+_cell_volume   58.04174152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.500000  0.500000  0.500000  1
+  Cu  Cu2  1  0.750000  0.750000  0.750000  1
+  Sn  Sn3  1  0.250000  0.250000  0.250000  1
+",58.04174152285476,0.0,1e-07,"{'G_Reuss': -30.0, 'G_VRH': 1.0, 'G_Voigt': 31.0, 'G_Voigt_Reuss_Hill': 1.0, 'K_Reuss': 107.0, 'K_VRH': 107.0, 'K_Voigt': 107.0, 'K_Voigt_Reuss_Hill': 107.0, 'elastic_anisotropy': -10.2, 'elastic_tensor': [[95.0, 113.0, 113.0, 0.0, 0.0, 0.0], [113.0, 95.0, 113.0, 0.0, 0.0, 0.0], [113.0, 113.0, 95.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 57.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 57.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 57.0]], 'homogeneous_poisson': 0.5, 'poisson_ratio': 0.5, 'universal_anisotropy': -10.2, 'elastic_tensor_original': [[94.6493363408977, 112.72934532076846, 112.72934532076846, 0.0, 0.0, 0.0], [112.72146154630876, 94.63879919629255, 112.72146154630876, 0.0, 0.0, 0.0], [112.72497977778295, 112.72497977778295, 94.64528960529756, 0.0, 0.0, 0.0], [0.000599523138205015, 3.6779455563379834e-05, -0.00043736315324292065, 57.33181654426144, 0.0, 0.0], [0.00016486707801397442, -0.00045023172455885854, 0.0010244196035273981, 0.0, 57.32958853929987, 0.0], [-0.0011591067810709185, -0.0015863040416301058, -0.0027173943871010835, 0.0, 0.0, 57.33116753767895]], 'compliance_tensor': [[-35.8, 19.5, 19.5, 0.0, -0.0, -0.0], [19.5, -35.8, 19.5, -0.0, 0.0, -0.0], [19.5, 19.5, -35.8, -0.0, -0.0, 0.0], [0.0, -0.0, -0.0, 17.4, 0.0, 0.0], [-0.0, 0.0, -0.0, 0.0, 17.4, 0.0], [-0.0, -0.0, 0.0, 0.0, 0.0, 17.4]], 'warnings': ['Elastic tensor has a negative eigenvalue', 'c11 and c12 are within 5% or c12 is greater than c11', 'c11 and c13 are within 5% or c13 is greater than c11', 'c11 and c23 are within 5% or c23 is greater than c11', 'One or more K, G below 2 GPa'], 'nsites': 4}",,,4,5,30,10
+9,9,9,Cu6Sn5,"['Cu', 'Sn']",0.010109081363635752,-0.01387794136363593,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'C2/c', 'number': 15, 'point_group': '2/m', 'crystal_system': 'monoclinic', 'hall': '-C 2yc'}",8.074061336832765,22,"# generated using pymatgen
+data_Cu6Sn5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66081043
+_cell_length_b   6.66081042
+_cell_length_c   9.94691236
+_cell_angle_alpha   82.77176527
+_cell_angle_beta   82.77176530
+_cell_angle_gamma   66.79419356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu6Sn5
+_chemical_formula_sum   'Cu12 Sn10'
+_cell_volume   400.97209141
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.574576  0.628937  0.796231  1
+  Cu  Cu1  1  0.371063  0.425424  0.703769  1
+  Cu  Cu2  1  0.425424  0.371063  0.203769  1
+  Cu  Cu3  1  0.628937  0.574576  0.296231  1
+  Cu  Cu4  1  0.810803  0.802825  0.390245  1
+  Cu  Cu5  1  0.197175  0.189197  0.109755  1
+  Cu  Cu6  1  0.189197  0.197175  0.609755  1
+  Cu  Cu7  1  0.802825  0.810803  0.890245  1
+  Cu  Cu8  1  0.000000  0.000000  0.000000  1
+  Cu  Cu9  1  0.000000  0.000000  0.500000  1
+  Cu  Cu10  1  0.161037  0.838963  0.750000  1
+  Cu  Cu11  1  0.838963  0.161037  0.250000  1
+  Sn  Sn12  1  0.554039  0.229696  0.471275  1
+  Sn  Sn13  1  0.770304  0.445961  0.028725  1
+  Sn  Sn14  1  0.445961  0.770304  0.528725  1
+  Sn  Sn15  1  0.229696  0.554039  0.971275  1
+  Sn  Sn16  1  0.940739  0.631994  0.642085  1
+  Sn  Sn17  1  0.368006  0.059261  0.857915  1
+  Sn  Sn18  1  0.059261  0.368006  0.357915  1
+  Sn  Sn19  1  0.631994  0.940739  0.142085  1
+  Sn  Sn20  1  0.799624  0.200376  0.750000  1
+  Sn  Sn21  1  0.200376  0.799624  0.250000  1
+",400.97209141144,0.0,0.0,"{'G_Reuss': 36.0, 'G_VRH': 37.0, 'G_Voigt': 37.0, 'G_Voigt_Reuss_Hill': 37.0, 'K_Reuss': 81.0, 'K_VRH': 81.0, 'K_Voigt': 81.0, 'K_Voigt_Reuss_Hill': 81.0, 'elastic_anisotropy': 0.09, 'elastic_tensor': [[136.0, 56.0, 58.0, 0.0, -7.0, 0.0], [56.0, 131.0, 56.0, 0.0, 6.0, 0.0], [58.0, 56.0, 126.0, 0.0, -0.0, 0.0], [0.0, 0.0, 0.0, 32.0, 0.0, -1.0], [-7.0, 6.0, -0.0, 0.0, 39.0, 0.0], [0.0, 0.0, 0.0, -1.0, 0.0, 40.0]], 'homogeneous_poisson': 0.3, 'poisson_ratio': 0.3, 'universal_anisotropy': 0.09, 'elastic_tensor_original': [[135.7471449030631, 55.267743078604006, 58.3193510679905, 0.734910623111585, 3.712108741862952, -0.8028877346975108], [53.902258401567444, 132.7085055075825, 56.40755653142198, 0.2651663570743807, -2.0860298074284205, 0.2315290294092379], [56.78914545317635, 56.662177185189464, 126.17513107408323, 0.041054245017270924, 0.06128365818553503, 0.1542113334363009], [0.8060776021166359, 0.06625605938649412, 0.3663891461502364, 34.22201481102766, 3.429033113615072, 3.160629549737336], [2.887875147391939, -1.6617095986295727, 0.6133776701256433, 3.6083621021084147, 37.124258578262236, 4.241469812397623], [2.5131057043627876, 1.7161674320674163, 0.7355825615107078, 3.671124228629327, 5.516432327208132, 38.69137052830506]], 'compliance_tensor': [[10.1, -3.0, -3.3, 0.0, 2.2, -0.0], [-3.0, 10.4, -3.3, -0.0, -2.0, -0.0], [-3.3, -3.3, 10.9, -0.0, -0.0, 0.0], [0.0, -0.0, -0.0, 31.4, -0.0, 0.9], [2.2, -2.0, -0.0, -0.0, 26.1, -0.0], [-0.0, -0.0, 0.0, 0.9, -0.0, 25.2]], 'warnings': [], 'nsites': 22}",,,22,3,12,10
+10,10,10,Cu5Sn4,"['Cu', 'Sn']",0.011824410555555607,-0.011629567222222192,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P2_1/c', 'number': 14, 'point_group': '2/m', 'crystal_system': 'monoclinic', 'hall': '-P 2ybc'}",8.123755521962659,36,"# generated using pymatgen
+data_Cu5Sn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32459806
+_cell_length_b   10.03382545
+_cell_length_c   9.98812276
+_cell_angle_alpha   118.01966079
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu5Sn4
+_chemical_formula_sum   'Cu20 Sn16'
+_cell_volume   648.02217318
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.776701  0.944396  0.056856  1
+  Cu  Cu1  1  0.276701  0.055604  0.443144  1
+  Cu  Cu2  1  0.223299  0.055604  0.943144  1
+  Cu  Cu3  1  0.723299  0.944396  0.556856  1
+  Cu  Cu4  1  0.255963  0.810197  0.186596  1
+  Cu  Cu5  1  0.755963  0.189803  0.313404  1
+  Cu  Cu6  1  0.744037  0.189803  0.813404  1
+  Cu  Cu7  1  0.244037  0.810197  0.686596  1
+  Cu  Cu8  1  0.723218  0.683742  0.316349  1
+  Cu  Cu9  1  0.223218  0.316258  0.183651  1
+  Cu  Cu10  1  0.276782  0.316258  0.683651  1
+  Cu  Cu11  1  0.776782  0.683742  0.816349  1
+  Cu  Cu12  1  0.242839  0.570411  0.431420  1
+  Cu  Cu13  1  0.742839  0.429589  0.068580  1
+  Cu  Cu14  1  0.757161  0.429589  0.568580  1
+  Cu  Cu15  1  0.257161  0.570411  0.931420  1
+  Cu  Cu16  1  0.089228  0.808925  0.937843  1
+  Cu  Cu17  1  0.589228  0.191075  0.562157  1
+  Cu  Cu18  1  0.910772  0.191075  0.062157  1
+  Cu  Cu19  1  0.410772  0.808925  0.437843  1
+  Sn  Sn20  1  0.599474  0.929247  0.284378  1
+  Sn  Sn21  1  0.099474  0.070753  0.215622  1
+  Sn  Sn22  1  0.400526  0.070753  0.715622  1
+  Sn  Sn23  1  0.900526  0.929247  0.784378  1
+  Sn  Sn24  1  0.051505  0.816629  0.435317  1
+  Sn  Sn25  1  0.551505  0.183371  0.064683  1
+  Sn  Sn26  1  0.948495  0.183371  0.564683  1
+  Sn  Sn27  1  0.448495  0.816629  0.935317  1
+  Sn  Sn28  1  0.586833  0.676434  0.577335  1
+  Sn  Sn29  1  0.086833  0.323566  0.922665  1
+  Sn  Sn30  1  0.413167  0.323566  0.422665  1
+  Sn  Sn31  1  0.913167  0.676434  0.077335  1
+  Sn  Sn32  1  0.097587  0.544047  0.668746  1
+  Sn  Sn33  1  0.597587  0.455953  0.831254  1
+  Sn  Sn34  1  0.902413  0.455953  0.331254  1
+  Sn  Sn35  1  0.402413  0.544047  0.168746  1
+",648.0221731807301,0.013099999999999673,0.0,,,,36,2,15,12
+11,11,11,CuSn,"['Cu', 'Sn']",0.0,-0.026385724999999915,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P6_3/mmc', 'number': 194, 'point_group': '6/mmm', 'crystal_system': 'hexagonal', 'hall': '-P 6c 2c'}",7.865650309794107,4,"# generated using pymatgen
+data_CuSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17542582
+_cell_length_b   4.17542582
+_cell_length_c   5.09675913
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSn
+_chemical_formula_sum   'Cu2 Sn2'
+_cell_volume   76.95312946
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.000000  0.000000  0.500000  1
+  Sn  Sn2  1  0.333333  0.666667  0.250000  1
+  Sn  Sn3  1  0.666667  0.333333  0.750000  1
+",76.95312945641541,0.0,0.0,"{'G_Reuss': 32.0, 'G_VRH': 34.0, 'G_Voigt': 37.0, 'G_Voigt_Reuss_Hill': 34.0, 'K_Reuss': 77.0, 'K_VRH': 77.0, 'K_Voigt': 77.0, 'K_Voigt_Reuss_Hill': 77.0, 'elastic_anisotropy': 0.83, 'elastic_tensor': [[115.0, 72.0, 44.0, 0.0, 0.0, 0.0], [72.0, 115.0, 44.0, 0.0, 0.0, 0.0], [44.0, 44.0, 140.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 46.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 46.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 21.0]], 'homogeneous_poisson': 0.31, 'poisson_ratio': 0.31, 'universal_anisotropy': 0.83, 'elastic_tensor_original': [[113.77343235943233, 69.84421149288735, 42.18899292821592, 0.0, 0.0, 3.1499552360889923e-07], [73.69981468275846, 116.5699554520097, 45.07936512950398, 0.0, 0.0, 0.0], [43.70496324637918, 43.704952206624746, 140.1339911515787, 0.0, 0.0, 0.0], [0.005649580329017723, 0.005621554553536962, 0.00582864527979422, 46.641385436232, 0.0, 0.0], [-0.0006647905689414167, 0.00029121024922472015, -0.00035787697294562926, 6.666672372152985e-09, 46.253819818379895, 0.0], [-0.030163199433064676, 0.25959894142474654, 0.1394503285170232, 0.0, 0.0, 20.366250901132172]], 'compliance_tensor': [[15.0, -8.8, -2.0, -0.0, -0.0, -0.0], [-8.8, 15.0, -2.0, 0.0, 0.0, -0.0], [-2.0, -2.0, 8.4, 0.0, 0.0, 0.0], [-0.0, 0.0, 0.0, 21.5, -0.0, -0.0], [-0.0, 0.0, 0.0, -0.0, 21.5, 0.0], [-0.0, -0.0, 0.0, -0.0, 0.0, 47.5]], 'warnings': [], 'nsites': 4}",,,4,5,2,2
+12,12,12,Cu10Sn3,"['Cu', 'Sn']",0.02521818923076946,0.013040162307692508,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P6_3/m', 'number': 176, 'point_group': '6/m', 'crystal_system': 'hexagonal', 'hall': '-P 6c'}",8.859331366384902,26,"# generated using pymatgen
+data_Cu10Sn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35739878
+_cell_length_b   7.35739878
+_cell_length_c   7.92923072
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu10Sn3
+_chemical_formula_sum   'Cu20 Sn6'
+_cell_volume   371.71516418
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.000000  0.000000  0.500000  1
+  Cu  Cu2  1  0.333333  0.666667  0.750000  1
+  Cu  Cu3  1  0.666667  0.333333  0.250000  1
+  Cu  Cu4  1  0.333333  0.666667  0.078271  1
+  Cu  Cu5  1  0.666667  0.333333  0.578271  1
+  Cu  Cu6  1  0.666667  0.333333  0.921729  1
+  Cu  Cu7  1  0.333333  0.666667  0.421729  1
+  Cu  Cu8  1  0.669381  0.028067  0.083444  1
+  Cu  Cu9  1  0.641314  0.669381  0.583444  1
+  Cu  Cu10  1  0.028067  0.358686  0.583444  1
+  Cu  Cu11  1  0.971933  0.641314  0.083444  1
+  Cu  Cu12  1  0.358686  0.330619  0.083444  1
+  Cu  Cu13  1  0.330619  0.971933  0.583444  1
+  Cu  Cu14  1  0.330619  0.971933  0.916556  1
+  Cu  Cu15  1  0.358686  0.330619  0.416556  1
+  Cu  Cu16  1  0.971933  0.641314  0.416556  1
+  Cu  Cu17  1  0.028067  0.358686  0.916556  1
+  Cu  Cu18  1  0.641314  0.669381  0.916556  1
+  Cu  Cu19  1  0.669381  0.028067  0.416556  1
+  Sn  Sn20  1  0.291992  0.977353  0.250000  1
+  Sn  Sn21  1  0.314639  0.291992  0.750000  1
+  Sn  Sn22  1  0.977353  0.685361  0.750000  1
+  Sn  Sn23  1  0.022647  0.314639  0.250000  1
+  Sn  Sn24  1  0.685361  0.708008  0.250000  1
+  Sn  Sn25  1  0.708008  0.022647  0.750000  1
+",371.7151641762087,0.0,0.0,,,,26,3,20,6
+13,13,13,Cu41Sn11,"['Cu', 'Sn']",0.02702390336538496,0.01586071201923125,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'F-43m', 'number': 216, 'point_group': '-43m', 'crystal_system': 'cubic', 'hall': 'F -4 2 3'}",8.893486442286251,104,"# generated using pymatgen
+data_Cu41Sn11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.73533985
+_cell_length_b   12.73533985
+_cell_length_c   12.73533985
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu41Sn11
+_chemical_formula_sum   'Cu82 Sn22'
+_cell_volume   1460.55063855
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.082761  0.082761  0.082761  1
+  Cu  Cu1  1  0.751718  0.082761  0.082761  1
+  Cu  Cu2  1  0.082761  0.751718  0.082761  1
+  Cu  Cu3  1  0.082761  0.082761  0.751718  1
+  Cu  Cu4  1  0.443045  0.443045  0.443045  1
+  Cu  Cu5  1  0.670866  0.443045  0.443045  1
+  Cu  Cu6  1  0.443045  0.670866  0.443045  1
+  Cu  Cu7  1  0.443045  0.443045  0.670866  1
+  Cu  Cu8  1  0.833763  0.833763  0.833763  1
+  Cu  Cu9  1  0.498712  0.833763  0.833763  1
+  Cu  Cu10  1  0.833763  0.498712  0.833763  1
+  Cu  Cu11  1  0.833763  0.833763  0.498712  1
+  Cu  Cu12  1  0.334550  0.334550  0.334550  1
+  Cu  Cu13  1  0.996349  0.334550  0.334550  1
+  Cu  Cu14  1  0.334550  0.996349  0.334550  1
+  Cu  Cu15  1  0.334550  0.334550  0.996349  1
+  Cu  Cu16  1  0.737537  0.971213  0.971213  1
+  Cu  Cu17  1  0.320038  0.971213  0.971213  1
+  Cu  Cu18  1  0.971213  0.320038  0.737537  1
+  Cu  Cu19  1  0.971213  0.971213  0.737537  1
+  Cu  Cu20  1  0.971213  0.737537  0.320038  1
+  Cu  Cu21  1  0.971213  0.971213  0.320038  1
+  Cu  Cu22  1  0.320038  0.737537  0.971213  1
+  Cu  Cu23  1  0.737537  0.320038  0.971213  1
+  Cu  Cu24  1  0.971213  0.737537  0.971213  1
+  Cu  Cu25  1  0.737537  0.971213  0.320038  1
+  Cu  Cu26  1  0.320038  0.971213  0.737537  1
+  Cu  Cu27  1  0.971213  0.320038  0.971213  1
+  Cu  Cu28  1  0.206427  0.481085  0.481085  1
+  Cu  Cu29  1  0.831403  0.481085  0.481085  1
+  Cu  Cu30  1  0.481085  0.831403  0.206427  1
+  Cu  Cu31  1  0.481085  0.481085  0.206427  1
+  Cu  Cu32  1  0.481085  0.206427  0.831403  1
+  Cu  Cu33  1  0.481085  0.481085  0.831403  1
+  Cu  Cu34  1  0.831403  0.206427  0.481085  1
+  Cu  Cu35  1  0.206427  0.831403  0.481085  1
+  Cu  Cu36  1  0.481085  0.206427  0.481085  1
+  Cu  Cu37  1  0.206427  0.481085  0.831403  1
+  Cu  Cu38  1  0.831403  0.481085  0.206427  1
+  Cu  Cu39  1  0.481085  0.831403  0.481085  1
+  Cu  Cu40  1  0.080191  0.737674  0.737674  1
+  Cu  Cu41  1  0.444461  0.737674  0.737674  1
+  Cu  Cu42  1  0.737674  0.444461  0.080191  1
+  Cu  Cu43  1  0.737674  0.737674  0.080191  1
+  Cu  Cu44  1  0.737674  0.080191  0.444461  1
+  Cu  Cu45  1  0.737674  0.737674  0.444461  1
+  Cu  Cu46  1  0.444461  0.080191  0.737674  1
+  Cu  Cu47  1  0.080191  0.444461  0.737674  1
+  Cu  Cu48  1  0.737674  0.080191  0.737674  1
+  Cu  Cu49  1  0.080191  0.737674  0.444461  1
+  Cu  Cu50  1  0.444461  0.737674  0.080191  1
+  Cu  Cu51  1  0.737674  0.444461  0.737674  1
+  Cu  Cu52  1  0.825729  0.825729  0.174271  1
+  Cu  Cu53  1  0.174271  0.174271  0.825729  1
+  Cu  Cu54  1  0.825729  0.174271  0.825729  1
+  Cu  Cu55  1  0.174271  0.825729  0.174271  1
+  Cu  Cu56  1  0.174271  0.825729  0.825729  1
+  Cu  Cu57  1  0.825729  0.174271  0.174271  1
+  Cu  Cu58  1  0.950357  0.950357  0.950357  1
+  Cu  Cu59  1  0.148928  0.950357  0.950357  1
+  Cu  Cu60  1  0.950357  0.148928  0.950357  1
+  Cu  Cu61  1  0.950357  0.950357  0.148928  1
+  Cu  Cu62  1  0.677512  0.677512  0.322488  1
+  Cu  Cu63  1  0.322488  0.322488  0.677512  1
+  Cu  Cu64  1  0.677512  0.322488  0.677512  1
+  Cu  Cu65  1  0.322488  0.677512  0.322488  1
+  Cu  Cu66  1  0.322488  0.677512  0.677512  1
+  Cu  Cu67  1  0.677512  0.322488  0.322488  1
+  Cu  Cu68  1  0.694553  0.694553  0.694553  1
+  Cu  Cu69  1  0.916340  0.694553  0.694553  1
+  Cu  Cu70  1  0.694553  0.916340  0.694553  1
+  Cu  Cu71  1  0.694553  0.694553  0.916340  1
+  Cu  Cu72  1  0.423639  0.423639  0.076361  1
+  Cu  Cu73  1  0.076361  0.076361  0.423639  1
+  Cu  Cu74  1  0.423639  0.076361  0.423639  1
+  Cu  Cu75  1  0.076361  0.423639  0.076361  1
+  Cu  Cu76  1  0.076361  0.423639  0.423639  1
+  Cu  Cu77  1  0.423639  0.076361  0.076361  1
+  Cu  Cu78  1  0.199458  0.199458  0.199458  1
+  Cu  Cu79  1  0.401625  0.199458  0.199458  1
+  Cu  Cu80  1  0.199458  0.401625  0.199458  1
+  Cu  Cu81  1  0.199458  0.199458  0.401625  1
+  Sn  Sn82  1  0.588010  0.588010  0.588010  1
+  Sn  Sn83  1  0.235969  0.588010  0.588010  1
+  Sn  Sn84  1  0.588010  0.235969  0.588010  1
+  Sn  Sn85  1  0.588010  0.588010  0.235969  1
+  Sn  Sn86  1  0.584974  0.232323  0.232323  1
+  Sn  Sn87  1  0.950380  0.232323  0.232323  1
+  Sn  Sn88  1  0.232323  0.950380  0.584974  1
+  Sn  Sn89  1  0.232323  0.232323  0.584974  1
+  Sn  Sn90  1  0.232323  0.584974  0.950380  1
+  Sn  Sn91  1  0.232323  0.232323  0.950380  1
+  Sn  Sn92  1  0.950380  0.584974  0.232323  1
+  Sn  Sn93  1  0.584974  0.950380  0.232323  1
+  Sn  Sn94  1  0.232323  0.584974  0.232323  1
+  Sn  Sn95  1  0.584974  0.232323  0.950380  1
+  Sn  Sn96  1  0.950380  0.232323  0.584974  1
+  Sn  Sn97  1  0.232323  0.950380  0.232323  1
+  Sn  Sn98  1  0.931540  0.931540  0.568460  1
+  Sn  Sn99  1  0.568460  0.568460  0.931540  1
+  Sn  Sn100  1  0.931540  0.568460  0.931540  1
+  Sn  Sn101  1  0.568460  0.931540  0.568460  1
+  Sn  Sn102  1  0.568460  0.931540  0.931540  1
+  Sn  Sn103  1  0.931540  0.568460  0.568460  1
+",1460.550638546258,0.0,9.45e-06,,,,104,1,82,22
+14,14,14,Cu19Sn16,"['Cu', 'Sn']",0.0141564031428576,-0.009967688285714107,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P1', 'number': 1, 'point_group': '1', 'crystal_system': 'triclinic', 'hall': 'P 1'}",7.9799441353881075,35,"# generated using pymatgen
+data_Cu19Sn16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54866446
+_cell_length_b   9.79287851
+_cell_length_c   9.77652965
+_cell_angle_alpha   116.54957260
+_cell_angle_beta   89.67431574
+_cell_angle_gamma   89.82452813
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu19Sn16
+_chemical_formula_sum   'Cu19 Sn16'
+_cell_volume   646.47734450
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.242260  0.191761  0.312213  1
+  Cu  Cu1  1  0.744162  0.810233  0.187894  1
+  Cu  Cu2  1  0.753198  0.812080  0.687294  1
+  Cu  Cu3  1  0.253736  0.189978  0.813647  1
+  Cu  Cu4  1  0.730044  0.059603  0.444859  1
+  Cu  Cu5  1  0.223391  0.942237  0.057739  1
+  Cu  Cu6  1  0.276715  0.943641  0.556986  1
+  Cu  Cu7  1  0.773303  0.058533  0.940745  1
+  Cu  Cu8  1  0.771957  0.315864  0.187243  1
+  Cu  Cu9  1  0.276311  0.686545  0.317512  1
+  Cu  Cu10  1  0.224550  0.681518  0.814676  1
+  Cu  Cu11  1  0.731253  0.314414  0.682495  1
+  Cu  Cu12  1  0.256320  0.430189  0.067315  1
+  Cu  Cu13  1  0.751591  0.566495  0.431090  1
+  Cu  Cu14  1  0.744073  0.568609  0.930862  1
+  Cu  Cu15  1  0.245135  0.430530  0.567941  1
+  Cu  Cu16  1  0.908168  0.809233  0.937732  1
+  Cu  Cu17  1  0.590606  0.812169  0.437588  1
+  Cu  Cu18  1  0.091663  0.190595  0.062987  1
+  Sn  Sn19  1  0.904298  0.069277  0.214921  1
+  Sn  Sn20  1  0.406551  0.941796  0.293224  1
+  Sn  Sn21  1  0.094187  0.929959  0.784773  1
+  Sn  Sn22  1  0.586641  0.076624  0.710403  1
+  Sn  Sn23  1  0.448405  0.182437  0.062590  1
+  Sn  Sn24  1  0.946631  0.816520  0.436680  1
+  Sn  Sn25  1  0.551072  0.815782  0.938501  1
+  Sn  Sn26  1  0.071887  0.183223  0.562442  1
+  Sn  Sn27  1  0.411653  0.442895  0.818874  1
+  Sn  Sn28  1  0.908456  0.544068  0.667854  1
+  Sn  Sn29  1  0.587541  0.545092  0.169015  1
+  Sn  Sn30  1  0.089770  0.456949  0.331839  1
+  Sn  Sn31  1  0.914741  0.322309  0.922155  1
+  Sn  Sn32  1  0.416291  0.676968  0.577188  1
+  Sn  Sn33  1  0.088232  0.678196  0.078177  1
+  Sn  Sn34  1  0.575309  0.313779  0.430648  1
+",646.4773444989107,0.0,7e-07,,,,35,2,19,16
+15,15,15,CuSn3,"['Cu', 'Sn']",0.2389468937500001,0.2257540312499997,"{'symprec': 0.1, 'source': 'spglib', 'symbol': 'P6_3/mmc', 'number': 194, 'point_group': '6/mmm', 'crystal_system': 'hexagonal', 'hall': '-P 6c 2c'}",7.326071381083561,8,"# generated using pymatgen
+data_CuSn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62422931
+_cell_length_b   6.62153841
+_cell_length_c   5.00480848
+_cell_angle_alpha   89.78129201
+_cell_angle_beta   90.22251012
+_cell_angle_gamma   119.92814120
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSn3
+_chemical_formula_sum   'Cu2 Sn6'
+_cell_volume   190.24886488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.333276  0.666672  0.750022  1
+  Cu  Cu1  1  0.666723  0.333332  0.249973  1
+  Sn  Sn2  1  0.172639  0.344799  0.250001  1
+  Sn  Sn3  1  0.655231  0.827414  0.249988  1
+  Sn  Sn4  1  0.172476  0.827651  0.250045  1
+  Sn  Sn5  1  0.827354  0.655189  0.750011  1
+  Sn  Sn6  1  0.344776  0.172587  0.750026  1
+  Sn  Sn7  1  0.827524  0.172353  0.749936  1
+",190.2488648828772,0.0,6.05e-06,,,,8,5,1,3

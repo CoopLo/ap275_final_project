@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Zhang, Ying
+AU  - Ling, Chen
+PY  - 2018
+DA  - 2018/05/14
+TI  - A strategy to apply machine learning to small datasets in materials science
+JO  - npj Computational Materials
+SP  - 25
+VL  - 4
+IS  - 1
+AB  - There is growing interest in applying machine learning techniques in the research of materials science. However, although it is recognized that materials datasets are typically smaller and sometimes more diverse compared to other fields, the influence of availability of materials data on training machine learning models has not yet been studied, which prevents the possibility to establish accurate predictive rules using small materials datasets. Here we analyzed the fundamental interplay between the availability of materials data and the predictive capability of machine learning models. Instead of affecting the model precision directly, the effect of data size is mediated by the degree of freedom (DoF) of model, resulting in the phenomenon of association between precision and DoF. The appearance of precision–DoF association signals the issue of underfitting and is characterized by large bias of prediction, which consequently restricts the accurate prediction in unknown domains. We proposed to incorporate the crude estimation of property in the feature space to establish ML models using small sized materials data, which increases the accuracy of prediction without the cost of higher DoF. In three case studies of predicting the band gap of binary semiconductors, lattice thermal conductivity, and elastic properties of zeolites, the integration of crude estimation effectively boosted the predictive capability of machine learning models to state-of-art levels, demonstrating the generality of the proposed strategy to construct accurate machine learning models using small materials dataset.
+SN  - 2057-3960
+UR  - https://doi.org/10.1038/s41524-018-0081-z
+DO  - 10.1038/s41524-018-0081-z
+ID  - Zhang2018
+ER  - 
